@@ -1,6 +1,5 @@
 # Terraform_aws_serverless_infrastructure
 
-![screenshot](Terraform Project 1.png.png)
 
 
 Dynamic Serverless AWS Architecture with Terraform
