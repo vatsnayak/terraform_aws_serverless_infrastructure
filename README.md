@@ -1,0 +1,2 @@
+# terraform_aws_serverless_infrastructure
+Dynamic Serverless AWS Architecture with Terraform
