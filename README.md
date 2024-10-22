@@ -2,7 +2,7 @@
 
 ![alt tag](tf_pro.png) 
 
-Dynamic Serverless AWS Architecture with Terraform
+Dynamic Serverless AWS Architecture with Terraform.
 
 Description: This repository contains the code for setting up a dynamic and serverless AWS infrastructure using Terraform. The infrastructure leverages several AWS services to create a scalable, event-driven system suitable for various serverless applications. The key components of this project include Amazon RDS, AWS Lambda functions, API Gateway, EventBridge, IAM roles, and security groups, all organized using a modular Terraform configuration.
 
