@@ -35,3 +35,5 @@ Use Cases:
 
 ## Don't forget to create lambda_function.zip file under two lambda's folder !
 You have to create _.py_ file and place it under a zip file !
+
+#### You will also find _.PNG_ file for a flow chart and a _PDF_ file for summary and explanation.
