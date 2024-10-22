@@ -32,3 +32,6 @@ Use Cases:
 - AWS Services: Lambda, RDS (MySQL), API Gateway, EventBridge, IAM, VPC.
 - Terraform: Infrastructure as Code (IaC) for AWS.
 - Feel free to clone, modify, and use this infrastructure as a starting point for your own serverless AWS projects.
+
+## Don't forget to create lambda_function.zip file under two lambda's folder !
+You have to create _.py_ file and place it under a zip file !
